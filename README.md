@@ -1,148 +1,134 @@
-Yash Sharma
+# Yash Sharma 🚀  
+**Final-Year Computer Science Student | Backend Engineering | Distributed Systems | Machine Learning**
 
-Final-Year Computer Science Student | Backend Engineering | Distributed Systems | Machine Learning
+---
 
-I’m a final-year Computer Science student focused on building scalable backend systems, distributed architectures, and real-time applications, with a growing interest in machine learning and data-driven systems.
+## 👋 About Me
 
-My core interests lie in backend infrastructure, system design, and performance-oriented engineering, while actively exploring how ML models can be applied to solve real-world problems.
+I’m a final-year Computer Science student passionate about building **scalable backend systems**, **distributed architectures**, and **real-time applications**, with a growing interest in **machine learning and data-driven systems**.
 
-Currently strengthening my expertise through hands-on projects spanning backend engineering, real-time systems, and machine learning.
+I enjoy designing reliable systems, working with APIs, and solving performance & scalability challenges.
 
-Technical Focus:->
+---
 
-Backend & APIs:Node.js · Express  · Spring Boot · 
+## 🧰 Tech Stack
 
-Databases:
-MongoDB · MySQL · PostgreSQL
+### 🚀 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express.js-Framework-black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Java-orange)
 
-Real-Time Systems:
-WebSockets 
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-lightblue)
 
-Machine Learning:
-Python · Scikit-learn · TensorFlow · Keras · Pandas · NumPy
+### ⚡ Real-Time & Systems
+![WebSockets](https://img.shields.io/badge/WebSockets-RealTime-purple)
 
-Core Strengths:
-Scalable API Design · Distributed Systems · Async Architectures · Fault Tolerance
+### 🤖 Machine Learning
+![Python](https://img.shields.io/badge/Python-ML-yellow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue)
 
-Projects:->
+---
 
-Document Management System — Secure File Platform:
 
-Stateless authentication using Spring Security + JWT
+## 🚀 Featured Projects
 
-Secure filesystem storage & backend authorization checks
+### 📂 Document Management System — Secure File Platform
+- Stateless authentication using **Spring Security + JWT**
+- Secure filesystem storage & backend authorization checks
+- Ownership-based access control & entity modeling
 
-Ownership-based access control & entity modeling
+**Tech:** React · Spring Boot · PostgreSQL · Hibernate
 
-React frontend with protected routes & API interceptors
+---
 
-Tech: React · Spring Boot · PostgreSQL · Hibernate
+### 💼 Job Portal — MERN Stack Application
+- Full-stack recruitment & job discovery platform
+- Stateless JWT authentication
+- Redux Toolkit for state management
+- Cloud deployment on Render
 
-Job Portal — MERN Stack Application:
+**Tech:** React · Node.js · Express · MongoDB · TailwindCSS
 
-Full-stack recruitment and job discovery platform
+---
 
-Developed a full-stack job portal using the MERN stack to enable seamless interaction between job seekers and recruiters
+### ✉️ Smart Email Generator — AI-Powered Backend
+- AI-driven email generation using **Spring AI**
+- Integrated **Google Gemini APIs**
+- Modular RESTful APIs & tone customization
 
-Implemented stateless JWT-based authentication, improving security and reducing authentication overhead
+**Tech:** Spring Boot · Spring AI · Gemini API
 
-Managed complex client-side state using Redux Toolkit, ensuring predictable and maintainable state flows
+---
 
-Successfully deployed the application on Render cloud infrastructure, handling real-world usage scenarios
+### 💬 Real-Time Chat App — WebSocket System
+- Low-latency messaging via **Spring Boot & WebSockets**
+- Voice messaging & file sharing
 
-Designed responsive UI with React and TailwindCSS for a clean and accessible user experience
+---
 
-Tech Stack: React · Node.js · Express · MongoDB · TailwindCSS · JWT · Redux Toolkit
 
-Smart Email Generator — AI-Powered Backend Application:
+## 🤖 Machine Learning Projects
 
-Context-aware email generation system using LLM APIs
+### 😷 Face Mask Detection — CNN & Computer Vision
+- Built image classification system using **CNN**
+- Trained deep learning models with **TensorFlow & Keras**
+- Implemented preprocessing & normalization pipelines
+- Applied **OpenCV** for computer vision workflows
 
-Built an AI-powered email generation system using Spring Boot and Spring AI, enabling dynamic creation of professional and context-aware email drafts
+**Tech:** Python · TensorFlow · Keras · OpenCV · NumPy
 
-Integrated Google Gemini APIs to support tone-aware and length-controlled email generation
+---
 
-Designed and exposed RESTful APIs with modular service layers for flexible prompt handling and response customization
+### 🌧 Rainfall Prediction System — ML-Based Forecasting
+- Processed & cleaned real-world datasets
+- Compared multiple ML models for prediction accuracy
+- Performed feature analysis & evaluation
+- Visualized results for interpretability
 
-Implemented features such as tone personalization, subject line generation, and multi-language support
+**Tech:** Python · Scikit-learn · Pandas · NumPy · Matplotlib
 
-Improved upon baseline Spring AI examples through advanced prompt engineering and enhanced configurability
+---
 
-Tech Stack: Spring Boot · Spring AI · Google Gemini API · Lombok · Maven · REST APIs
+### 🎬 Movie Recommendation System
+- Designed ML-based recommendation engine
+- Implemented collaborative filtering logic
+- Data preprocessing & similarity computation
 
-Real-Time Chat App — WebSocket System:
+**Tech:** Python · Scikit-learn · Pandas · NumPy
 
-Low-latency messaging using Spring Boot & WebSockets
+---
 
-Voice messaging & file sharing
+## 🧩 Problem Solving
 
-Media streaming & session control
+![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange)
 
-Tech: Spring Boot · WebSockets · JavaScript
+💻 **LeetCode Profile:**  
+https://leetcode.com/u/Yash_Sharma28
 
-Machine Learning & Data Projects
-Face Mask Detection — CNN & Computer Vision:
+---
 
-Developed an image classification system using Convolutional Neural Networks (CNN)
+## ⚙️ How I Work
 
-Built & trained deep learning models using TensorFlow and Keras
+✔ Clean & maintainable code  
+✔ Focus on scalability & reliability  
+✔ Comfortable with async systems  
+✔ Strong debugging & problem-solving mindset  
 
-Implemented preprocessing & normalization pipelines
+---
 
-Applied OpenCV for computer vision workflows
+## 📚 Currently Improving
 
-Tech: Python · TensorFlow · Keras · CNN · OpenCV · NumPy
+Distributed Systems · Database Performance · Model Optimization · Observability
 
-Rainfall Prediction System — ML-Based Forecasting:
+---
 
-Processed & cleaned real-world datasets using Pandas & NumPy
+## 📫 Connect With Me
 
-Compared multiple ML models for prediction accuracy
+📧 Email → yasharma0309@gmail.com  
+🔗 LinkedIn → https://www.linkedin.com/in/yash-sharma-a17724253  
+💻 LeetCode → https://leetcode.com/u/Yash_Sharma28  
 
-Performed feature analysis & evaluation
-
-Visualized results for interpretability
-
-Tech: Python · Scikit-learn · Pandas · NumPy · Matplotlib
-
-Movie Recommendation System:
-
-Designed a recommendation engine using ML similarity techniques
-
-Implemented collaborative filtering logic
-
-Preprocessed data & evaluated model behavior
-
-Tech: Python · Scikit-learn · Pandas · NumPy
-
-How I Work:->
-
-Prefer clean, maintainable, well-structured code
-
-Focus on scalability & system reliability
-
-Comfortable with debugging complex async flows
-
-Strong problem-solving & architecture mindset
-
-Currently Improving:->
-
-Distributed system patterns · Database performance tuning · Model optimization · Observability
-
- yasharma0309@gmail.com
- https://www.linkedin.com/in/yash-sharma-a17724253
- https://leetcode.com/u/Yash_Sharma28
-<!--
-**RoCkY4555/RoCkY4555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
